@@ -6,8 +6,6 @@ or is just seed noise. This project builds both: a decoder-only Transformer
 implemented from primitives, and the seed-based measurement protocol used to
 judge every ablation run on it.
 
-📄 **[Technical report (PDF)](report.pdf)** — 4–5 pages: full experimental detail, statistics, and limitations.
-
 ## What is implemented by hand
 
 No `nn.MultiheadAttention`, no `nn.TransformerDecoder`, no `transformers`:
